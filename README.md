@@ -1,2 +1,3 @@
 # ENSE-374
-Resources from UR Courses
+
+ENSE 374, Software Engineering Management (Fall 2018)
